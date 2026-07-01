@@ -1,0 +1,7 @@
+_pycache_/
+.venv/
+tela.spec
+build_temp/
+dist_portable/
+dist/
+build/
