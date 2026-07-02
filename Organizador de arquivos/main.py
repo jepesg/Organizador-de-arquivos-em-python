@@ -14,7 +14,7 @@ def get_folder_name(path: Path) -> str:
         "bmp": "Imagens",
         "svg": "Imagens",
         "webp": "Imagens",
-        "pdf": "Documentos",
+        "pdf": "PDF",
         "doc": "Documentos",
         "docx": "Documentos",
         "txt": "Documentos",
